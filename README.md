@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there, I'm Estelle! I'm a student at 42Paris.
+
+### What do I do
+  * 🔭 I’m currently working on **42 project: [ft_transcendence](https://github.com/42esoulard/42_ft_transcendence)**, an online multiplayer Pong game app! 
+  * ⚡ I'm finishing **The Odin Project's Fullstack JS path**. 
+  * 🌱 I’m currently learning VueJS, NestJS and PostgreSQL
+  * If you're a fellow webdev, weather forecasts and sloths enthusiast, check out my **[Weather Sloth App](https://42esoulard.github.io/weather_sloth/)**!
+  * Ask Me Anything! 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 
 <!--
 **42esoulard/42esoulard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
