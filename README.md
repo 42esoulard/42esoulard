@@ -1,4 +1,4 @@
-# :sunflower: Hi there! I'm Estelle at <img src="42.svg" width=50> Paris.
+# :sunflower: Hi there! I'm Estelle at <a href='https://42.fr/en/homepage/'><img src="42.svg" width=50> Paris</a>.
 
 
 <p align='center'>
