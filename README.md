@@ -7,9 +7,10 @@
   🌱 I'm building <strong><a href='https://github.com/42esoulard/portfolio'>my portfolio website</a> with VueJS and Sass</strong> (and plenty of neon effects). 
 </p>
 <p align='center'>
-  ⚡ I just validated <a href='https://42.fr/en/homepage/' title='42Paris'><img src="42.svg" width=50> Paris</a>' last common core project: <strong><a href='https://github.com/42esoulard/42_ft_transcendence'>ft_transcendence</a></strong>. <br>In this online gaming team project, I built all the chat-related functionalities, with public/private and password protected channels, membership system with mute, ban and kick options, admin pannels, live socket transmission of messages and simultaneous DB storage, direct messaging channels. <br>
+  ⚡ I just validated <a href='https://42.fr/en/homepage/' title='42Paris'><img src="42.svg" width=50> Paris</a>' last common core project: <strong><a href='https://github.com/42esoulard/42_ft_transcendence'>ft_transcendence</a></strong>. <br>In this online gaming team project, I built all the chat-related functionalities, with public/private and password protected channels, membership system with mute, ban and kick options, admin pannels, live socket transmission of messages and simultaneous DB storage, direct messaging channels, live togglable notifications system... <br>
 I produced a fully functional secured chat API with a user-friendly front and I am very proud of it :)
 </><br>
+
 
 
 <p align='center'>
