@@ -4,7 +4,7 @@
   🔭 I'm looking to join a team as a fullstack or software dev!
 </p>
 <p align='center'> 
-  🌱 I'm building <strong><a href='https://github.com/42esoulard/portfolio'>my portfolio website</a> with VueJS and Sass</strong> (and plenty of neon effects). 
+  🌱 Check out my brand new <strong><a href='https://estellesoulard.com/'>portfolio website</a> ! Built with VueJS and Sass</strong> (and plenty of neon effects). 
 </p>
 <p align='center'>
   ⚡ I have just completed <a href='https://42.fr/en/homepage/' title='42Paris'><img src="42.svg" width=50> Paris</a>' final common core project: <strong><a href='https://github.com/42esoulard/42_ft_transcendence'>ft_transcendence</a></strong>. <br>In this online gaming team project, I built <strong>all the chat-related functionalities</strong>, with <strong>public/private and password</strong> protected channels, <strong>membership</strong> system with mute, ban and kick options, <strong>admin</strong> pannels, live <strong>socket transmission</strong> of messages and simultaneous <strong>DB storage</strong>, direct messaging channels, live togglable <strong>notifications</strong> system... <br>
