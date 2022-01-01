@@ -1,7 +1,7 @@
 # :sunflower: Hi there! I'm Estelle at <a href='https://42.fr/en/homepage/' title='42Paris'><img src="42.svg" width=50> Paris</a>.
 
 <p align='center'> 
-  🔭 I'm looking for a 6 months internship as a fullstack or software dev!
+  🔭 I'm looking to join a team as a fullstack or software dev!
 </p>
 <p align='center'> 
   🌱 I'm building <strong><a href='https://github.com/42esoulard/portfolio'>my portfolio website</a> with VueJS and Sass</strong> (and plenty of neon effects). 
