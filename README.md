@@ -1,10 +1,7 @@
 # :sunflower: Hi there! I'm Estelle at <a href='https://42.fr/en/homepage/' title='42Paris'><img src="42.svg" width=50> Paris</a>.
 
 <p align='center'> 
-  🔭 I'm looking to join a team as a fullstack or software dev!
-</p>
-<p align='center'> 
-  🌱 Check out my brand new <strong><a target="_blank" href='https://estellesoulard.com/'>portfolio website</a> ! Built with VueJS and Sass</strong> (and plenty of neon effects). 
+  🔭 Check out my brand new <strong><a target="_blank" href='https://estellesoulard.com/'>portfolio website</a> ! Built with VueJS and Sass</strong> (and plenty of neon effects). 
 </p>
 <p align='center'>
   ⚡ I have just completed <a target="_blank" href='https://42.fr/en/homepage/' title='42Paris'><img src="42.svg" width=50> Paris</a>' final common core project: <strong><a target="_blank" href='https://github.com/42esoulard/42_ft_transcendence'>ft_transcendence</a></strong>. <br>In this online gaming team project, I built <strong>all the chat-related functionalities</strong>, with <strong>public/private and password</strong> protected channels, <strong>membership</strong> system with mute, ban and kick options, <strong>admin</strong> pannels, live <strong>socket transmission</strong> of messages and simultaneous <strong>DB storage</strong>, direct messaging channels, live togglable <strong>notifications</strong> system... <br>
@@ -12,6 +9,13 @@ I produced a fully functional secured chat API, accessed through a user-friendly
 </><br>
 <p align='center'>
   <img src="demo_transcendence_chat.gif" alt="animated" />
+</p>
+
+<p align='center'> 
+  🌱 I'm currently learning:
+  <a target="_blank" href='https://www.python.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title='Python' width=50/></a>
+  <a target="_blank" href='https://go.dev/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title='Go' width=50/></a>
+  <a target="_blank" href='https://www.futurelearn.com/info/blog/introduction-to-cloud-computing'><img src="https://www.svgrepo.com/show/92428/cloud-computing.svg" title='Cloud Ecosystems' width=50/></a>
 </p>
 <p align='center'>
  :hammer_and_wrench: Here's my stack:
