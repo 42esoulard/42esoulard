@@ -1,10 +1,20 @@
-# :sunflower: Hi there! I'm Estelle at <a href='https://42.fr/en/homepage/' title='42Paris'><img src="42.svg" width=50> Paris</a>.
+# :sunflower: Hi there! I'm Estelle, a DevOps Engineer at <a href='https://www.scaleway.com/en/' title='Scaleway'><img src="https://images-www.scaleway.com/wp-content/uploads/2020/10/20153721/Logo-Scaleway.svg" height=50></a>.
+<br>
+<p align='center'> 
+  :cloud: I'm part of Scaleway's current <a href='https://blog.scaleway.com/devops-onboarding-juniors/' title='42Paris'>Cloud Builder Launchpad</a>.
+</p>
 
 <p align='center'> 
-  🔭 Check out my brand new <strong><a target="_blank" href='https://estellesoulard.com/'>portfolio website</a> ! Built with VueJS and Sass</strong> (and plenty of neon effects). 
+  :closed_book: I'm a <a href='https://42.fr/en/homepage/' title='42Paris'><img src="42.svg" height=30> Paris</a> alumni.
+</p>
+
+# 
+<br>
+<p align='center'> 
+  🔭 Check out my <strong><a target="_blank" href='https://estellesoulard.com/'>portfolio website</a> ! Built with VueJS and Sass</strong> (and plenty of neon effects). 
 </p>
 <p align='center'>
-  ⚡ I have just completed <a target="_blank" href='https://42.fr/en/homepage/' title='42Paris'><img src="42.svg" width=50> Paris</a>' final common core project: <strong><a target="_blank" href='https://github.com/42esoulard/42_ft_transcendence'>ft_transcendence</a></strong>. <br>In this online gaming team project, I built <strong>all the chat-related functionalities</strong>, with <strong>public/private and password</strong> protected channels, <strong>membership</strong> system with mute, ban and kick options, <strong>admin</strong> pannels, live <strong>socket transmission</strong> of messages and simultaneous <strong>DB storage</strong>, direct messaging channels, live togglable <strong>notifications</strong> system... <br>
+  ⚡ I have recently completed <a target="_blank" href='https://42.fr/en/homepage/' title='42Paris'><img src="42.svg" height=30> Paris</a>' final common core project: <strong><a target="_blank" href='https://github.com/42esoulard/42_ft_transcendence'>ft_transcendence</a></strong>. <br>In this online gaming team project, I built <strong>all the chat-related functionalities</strong>, with <strong>public/private and password</strong> protected channels, <strong>membership</strong> system with mute, ban and kick options, <strong>admin</strong> pannels, live <strong>socket transmission</strong> of messages and simultaneous <strong>DB storage</strong>, direct messaging channels, live togglable <strong>notifications</strong> system... <br>
 I produced a fully functional secured chat API, accessed through a user-friendly responsive cross-browser compatible front <br>and I am very proud of it :)
 </><br>
 <p align='center'>
