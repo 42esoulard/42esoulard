@@ -1,7 +1,7 @@
 # :sunflower: Hi there! I'm Estelle, a DevOps Engineer at <a href='https://www.scaleway.com/en/' title='Scaleway'><img src="https://images-www.scaleway.com/wp-content/uploads/2020/10/20153721/Logo-Scaleway.svg" height=50></a>.
 <br>
 <p align='center'> 
-  :cloud: I'm part of Scaleway's current <a href='https://blog.scaleway.com/devops-onboarding-juniors/' title='42Paris'>Cloud Builder Launchpad</a>.
+  :cloud: I was part of Scaleway's second <a href='https://blog.scaleway.com/devops-onboarding-juniors/' title='Cloud Builder Launchpad'>Cloud Builder Launchpad</a>.
 </p>
 
 <p align='center'> 
