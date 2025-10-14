@@ -70,7 +70,9 @@ I produced a fully functional secured chat API, accessed through a user-friendly
 #
 
  <p align='center'>
- :sun_behind_small_cloud:<img src="1f9a5.png" width=30> You like weather forecasts? You like sloths? Get the best of both worlds with my <strong><a href="https://42esoulard.github.io/weather_sloth/">Weather Sloth App</a></strong>! <img src="1f9a5.png" width=30>:sun_behind_small_cloud:
+ :sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:
+   <br>You like weather forecasts? You like sloths? Get the best of both worlds with my <strong><a href="https://42esoulard.github.io/weather_sloth/">Weather Sloth App</a></strong>!
+   <br>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:<img src="1f9a5.png" width=30>:sun_behind_small_cloud:
 </p>
 
 #
