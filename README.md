@@ -60,16 +60,20 @@
 #
 
 <p align='center'>
-  ⚡ Here's a snippet of the <a target="_blank" href='https://42.fr/en/homepage/' title='42Paris'><img src="42.svg" height=30> Paris</a>' final common core project I made back in 2021: <strong><a target="_blank" href='https://github.com/42esoulard/42_ft_transcendence'>ft_transcendence</a></strong>. <br>In this online gaming team project, I built <strong>all the chat-related functionalities</strong>, with <strong>public/private and password</strong> protected channels, <strong>membership</strong> system with mute, ban and kick options, <strong>admin</strong> pannels, live <strong>socket transmission</strong> of messages and simultaneous <strong>DB storage</strong>, direct messaging channels, live togglable <strong>notifications</strong> system... <br>
+  ⚡ Here's a snippet of the <a target="_blank" href='https://42.fr/en/homepage/' title='42Paris'><img src="42.svg" height=30></a> final common core project I made back in 2021: <strong><a target="_blank" href='https://github.com/42esoulard/42_ft_transcendence'>ft_transcendence</a></strong>. <br>In this online gaming team project, I built <strong>all the chat-related functionalities</strong>, with <strong>public/private and password</strong> protected channels, <strong>membership</strong> system with mute, ban and kick options, <strong>admin</strong> pannels, live <strong>socket transmission</strong> of messages and simultaneous <strong>DB storage</strong>, direct messaging channels, live togglable <strong>notifications</strong> system... <br>
 I produced a fully functional secured chat API, accessed through a user-friendly responsive cross-browser compatible front.
 </><br>
 <p align='center'>
   <img src="demo_transcendence_chat.gif" alt="animated" />
 </p>
 
+#
+
  <p align='center'>
  :sun_behind_small_cloud:<img src="1f9a5.png" width=30> You like weather forecasts? You like sloths? Get the best of both worlds with my <strong><a href="https://42esoulard.github.io/weather_sloth/">Weather Sloth App</a></strong>! <img src="1f9a5.png" width=30>:sun_behind_small_cloud:
 </p>
+
+#
 
  <p align='center'>
 📫 <strong>Reach out! </strong>
