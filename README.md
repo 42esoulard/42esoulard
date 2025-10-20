@@ -1,6 +1,6 @@
 <h1 align=center>
   <a target="_blank" href='https://www.scaleway.com/en/'><img src="https://www.svgrepo.com/show/92428/cloud-computing.svg" title='Scaleway' width=30/></a>
-  Database DevOps
+  DevOps Engineer @ <a href='https://www.scaleway.com/en/' title='Scaleway'>Scaleway</a>
   <a target="_blank" href='https://www.scaleway.com/en/'><img src="https://www.svgrepo.com/show/92428/cloud-computing.svg" title='Scaleway' width=30/></a>
 </h1>
 
